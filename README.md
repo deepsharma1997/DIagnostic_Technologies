@@ -31,11 +31,11 @@ By the end of this, you will have the knowledge and tools to perform the followi
 
 ### Installation <a name="installation"></a>
 
-* Datasets: The dataset used in this project is publicly available and can be downloaded from 
+* Datasets: The dataset used in this project is publicly available and can be downloaded from [Sample_Data](https://github.com/deepsharma1997/DIagnostic_Technologies/tree/main/Sample_data)
 * Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
 
 
 ## Author<a name="author"></a>
-* [Deepanshu Sharma](https://github.com/[deepsharma1997])
+* [Deepanshu Sharma]([https://github.com/deepsharma1997])
 
 
