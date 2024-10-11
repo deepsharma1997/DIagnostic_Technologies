@@ -36,6 +36,6 @@ By the end of this, you will have the knowledge and tools to perform the followi
 
 
 ## Author<a name="author"></a>
-* [Deepanshu Sharma]([https://github.com/deepsharma1997])
+* [Deepanshu Sharma](https://github.com/deepsharma1997)
 
 
